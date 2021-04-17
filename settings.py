@@ -18,5 +18,7 @@ DATABASES = {
     }
 }
 
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
 PROJECT_NAME = "app_name"
 
